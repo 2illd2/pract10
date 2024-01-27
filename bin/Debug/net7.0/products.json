@@ -1,0 +1,14 @@
+[
+  {
+    "ID": 1,
+    "Name": "product1",
+    "PricePerUnit": 100.0,
+    "QuantityInStock": 33
+  },
+  {
+    "ID": 2,
+    "Name": "product2",
+    "PricePerUnit": 200.0,
+    "QuantityInStock": 24
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "ID": 1,
+    "Name": "Выбранный Товар1",
+    "PricePerUnit": 100,
+    "QuantityInStock": 10
+  },
+  {
+    "ID": 2,
+    "Name": "Выбранный Товар2",
+    "PricePerUnit": 150,
+    "QuantityInStock": 5
+  }
+  // Дополнительные выбранные товары...
+]

@@ -1,0 +1,20 @@
+C:\Users\danil\OneDrive\Рабочий стол\Работа\project1_1\obj\Debug\net7.0\project1_1.csproj.AssemblyReference.cache
+C:\Users\danil\OneDrive\Рабочий стол\Работа\project1_1\obj\Debug\net7.0\project1_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danil\OneDrive\Рабочий стол\Работа\project1_1\obj\Debug\net7.0\project1_1.AssemblyInfoInputs.cache
+C:\Users\danil\OneDrive\Рабочий стол\Работа\project1_1\obj\Debug\net7.0\project1_1.AssemblyInfo.cs
+C:\Users\danil\OneDrive\Рабочий стол\Работа\project1_1\obj\Debug\net7.0\project1_1.csproj.CoreCompileInputs.cache
+C:\Users\danil\OneDrive\Рабочий стол\Работа\project1_1\bin\Debug\net7.0\project1_1.exe
+C:\Users\danil\OneDrive\Рабочий стол\Работа\project1_1\bin\Debug\net7.0\project1_1.deps.json
+C:\Users\danil\OneDrive\Рабочий стол\Работа\project1_1\bin\Debug\net7.0\project1_1.runtimeconfig.json
+C:\Users\danil\OneDrive\Рабочий стол\Работа\project1_1\bin\Debug\net7.0\project1_1.dll
+C:\Users\danil\OneDrive\Рабочий стол\Работа\project1_1\bin\Debug\net7.0\project1_1.pdb
+C:\Users\danil\OneDrive\Рабочий стол\Работа\project1_1\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\danil\OneDrive\Рабочий стол\Работа\project1_1\obj\Debug\net7.0\project1_1.csproj.CopyComplete
+C:\Users\danil\OneDrive\Рабочий стол\Работа\project1_1\obj\Debug\net7.0\project1_1.dll
+C:\Users\danil\OneDrive\Рабочий стол\Работа\project1_1\obj\Debug\net7.0\refint\project1_1.dll
+C:\Users\danil\OneDrive\Рабочий стол\Работа\project1_1\obj\Debug\net7.0\project1_1.pdb
+C:\Users\danil\OneDrive\Рабочий стол\Работа\project1_1\obj\Debug\net7.0\project1_1.genruntimeconfig.cache
+C:\Users\danil\OneDrive\Рабочий стол\Работа\project1_1\obj\Debug\net7.0\ref\project1_1.dll
+C:\Users\asus\Desktop\project1_1\obj\Debug\net7.0\project1_1.dll
+C:\Users\asus\Desktop\project1_1\obj\Debug\net7.0\refint\project1_1.dll
+C:\Users\asus\Desktop\project1_1\obj\Debug\net7.0\project1_1.pdb
